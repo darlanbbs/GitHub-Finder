@@ -2,7 +2,7 @@
 
 # Description 
 
-The challenge GitHub Finder is a challange to improve the techniques in ReactJs,Typescript and Styled Components(Chakra UI).
+The challenge GitHub Finder is a challange to improve the techniques in ReactJs,Typescript and Styled Components(Chakra UI) with request api.
 
 # Layout
 
