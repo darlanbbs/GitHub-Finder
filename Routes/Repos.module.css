@@ -1,0 +1,35 @@
+.repos h2 {
+  font-size: 1.2rem;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.repos_container {
+  background-color: #2b3566;
+  padding: 2.5rem;
+  border-radius: 1rem;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1.2rem;
+}
+
+.repos {
+  width: 30%;
+  height: 300px;
+  margin: 10px;
+}
+
+h2 strong,
+p {
+  font-weight: 100;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+@media screen and (max-width: 1200px) {
+  .repos {
+    width: 100%;
+    height: 300px;
+  }
+}
