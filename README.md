@@ -2,7 +2,7 @@
 
 # Description 
 
-The challenge Project Word is a challange to improve the techniques in Reactjs.
+The challenge GitHub Finder is a challange to improve the techniques in ReactJs,Typescript and Styled Components(Chakra UI).
 
 # Layout
 
