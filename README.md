@@ -21,15 +21,8 @@ The challenge GitHub Finder is a challange to improve the techniques in ReactJs,
 
 - This will copy all the files from this repo down to your computer
 
--Type npm install to install all dependencies
+-Type Yarn to install all dependencies
 
 -Last, but not least, type npm start to run the app locally.
 
-# Depedencies 
 
-- React Router
-  - Install: `yarn add react-router-dom`
-- React layout 
-  - Install: `yarn add @chakra-ui/react @emotion/react @emotion/styled framer-motion`
-  - Install: `yarn add @chakra-ui/icons`
-  
