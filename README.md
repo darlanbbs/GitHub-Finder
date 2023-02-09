@@ -21,8 +21,8 @@ The challenge GitHub Finder is a challange to improve the techniques in ReactJs,
 
 - This will copy all the files from this repo down to your computer
 
--Type Yarn to install all dependencies
+- Type Yarn to install all dependencies
 
--Last, but not least, type npm start to run the app locally.
+- Last, but not least, type npm start to run the app locally.
 
 
